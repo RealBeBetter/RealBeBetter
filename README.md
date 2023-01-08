@@ -5,14 +5,11 @@
 Here are some ideas to get you started:
 
 -->
-### Hi I'm LuckyHunter 👋
-- 🔭 I’m currently working on Linux Platform
+### Hi I'm RealBeBetter 👋
 - 🌱 I’m currently learning Java, Shell and Go
-- 👯 I’m looking to collaborate on Github and Gitee
-- 🤔 I’m looking for help with Making Money
+- 👯 I’m looking to collaborate on [Github](https://github.com/RealBeBetter) and [Gitee](https://gitee.com/realBeBetter)
 - 💬 Ask me about anything you want if I know
 - 📫 How to reach me: swrely@qq.com
-- 😄 Pronouns: Nothing
 - ⚡ Fun fact: Reading, Coding, Music
 - 💬 Be free to ask me about anything [here](https://github.com/RealBeBetter/RealBeBetter/issues).
 
