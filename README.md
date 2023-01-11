@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: swrely@qq.com
 - ⚡ Fun fact: Reading, Coding, Music
 - 💬 Be free to ask me about anything [here](https://github.com/RealBeBetter/RealBeBetter/issues).
+- 💬 Welcome to my personal blog: [here](https://realbebetter.github.io/docs/about/contact-me.html).
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealBeBetter&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
