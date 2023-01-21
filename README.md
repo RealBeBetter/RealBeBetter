@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Welcome to my personal blog: [here](https://realbebetter.github.io/docs/about/contact-me.html).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=RealBeBetter&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealBeBetter&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RealBeBetter&show_icons=true&theme=tokyonight)
 
