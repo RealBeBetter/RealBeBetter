@@ -6,10 +6,9 @@ Here are some ideas to get you started:
 
 -->
 ### Hi I'm RealBeBetter 👋
-- 🌱 I’m currently learning Java, Shell and Go
+- 🌱 I’m currently learning Java, Go
 - 👯 I’m looking to collaborate on [Github](https://github.com/RealBeBetter) and [Gitee](https://gitee.com/realBeBetter)
-- 💬 Ask me about anything you want if I know
-- 📫 How to reach me: swrely@qq.com
+- 📫 Ask me about anything you want if I know, how to reach me: swrely@qq.com
 - ⚡ Fun fact: coding, reading, music
 - 💬 Be free to ask me about anything [here](https://github.com/RealBeBetter/RealBeBetter/issues).
 - 💬 Welcome to my personal blog: [here](https://realbebetter.github.io/docs/about/contact-me.html).
